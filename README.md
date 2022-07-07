@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 - hi. im @trickpirata
 - senior ios developer
 - to know more about me, visit my [website](http://trickgorospe.com) 
