@@ -1,8 +1,8 @@
-![Metrics](/github-metrics.svg)
-
 - hi. im @trickpirata
 - senior ios developer
 - to know more about me, visit my [website](http://trickgorospe.com) 
+
+![Metrics](/github-metrics.svg)
 
 <!---
 trickpirata/trickpirata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
